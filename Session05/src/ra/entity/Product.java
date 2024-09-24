@@ -3,7 +3,7 @@ package ra.entity;
 import java.util.Scanner;
 
 import static ra.imp.ProductImp.listProducts;
-import static ra.run.StudentManagement.currentIndex;
+import static ra.imp.ProductImp.currentIndex;
 
 public class Product {
     private String productId;
